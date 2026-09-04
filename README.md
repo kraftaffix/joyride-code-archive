@@ -1,2 +1,1 @@
-# joyride-code-archive
-joyride ph code archive
+codes for the app
